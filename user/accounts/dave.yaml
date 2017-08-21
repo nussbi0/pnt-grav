@@ -1,0 +1,11 @@
+email: dave.nussbaumer@gmail.com
+fullname: Dave
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$YdDNfjSA7CUVi3bnhsPpQOyxRC6TdQgMk4OMFBzReVUaum7Bcmhme
