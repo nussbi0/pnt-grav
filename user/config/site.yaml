@@ -4,4 +4,14 @@ author:
   email: 'joe@test.com'
 metadata:
     description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+links:
+    - url: '#services'
+      title: Services
+    - url: '#portfolio'
+      title: Portfolio
+    - url: '#about'
+      title: About
+    - url: '#team'
+      title: Team
+    - url: '#contact'
+      title: Contact
